@@ -1,66 +1,71 @@
-# 👋 Hey there, I'm Akbar Mohammed!
-
-🎓 Master's Graduate in Computer Science from Pace University, New York  
-💻 DevOps & Full-Stack Enthusiast | Software Engineer @ Mars Technominds  
-🚀 Passionate about building scalable, impactful solutions & learning cloud technologies
+### Hi there 👋 I’m Akbar Mohammed  
+Welcome to my GitHub profile!
 
 ---
 
-## 🧠 About Me
+🎓 I’m a Master’s graduate in Computer Science from Pace University, New York, and currently working as a Software Engineer at Mars Technominds Inc. I’m passionate about building scalable, real-world solutions and enjoy working at the intersection of software development and DevOps.
 
-I’m a software engineer with experience in full-stack development, backend automation, and real-world product deployment. I enjoy solving challenging problems with clean, scalable code and love exploring DevOps tools and cloud technologies like AWS, Jenkins, and Docker.
+📡 With a background in Electronics and Communication Engineering, I began my journey in tech by developing smart systems for water management and traffic monitoring. Over time, I’ve transitioned into full-stack and backend development, and I'm now focused on DevOps and cloud infrastructure.
 
-### 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, SQL, Java, Kotlin  
-- **Frontend**: React.js, HTML5, CSS, Jetpack Compose  
-- **Backend**: Firebase, FastAPI, Django  
-- **Tools**: Jenkins, JIRA, GitHub Actions  
-- **DevOps**: CI/CD, Git, GitHub, Ubuntu  
-- **Database**: PostgreSQL, Firebase, MySQL  
-- **Other**: Android Studio, Visual Studio, NodeMCU, Arduino
+🧠 I’m currently learning and working with CI/CD pipelines, Jenkins, Docker, and AWS — aiming to become a well-rounded DevOps engineer with practical experience across the stack.
 
 ---
 
-## 🚧 Recent Projects
+### 🛠️ Tech Stack & Tools
 
-### 🔹 [Task-Genie](#)
-A service booking platform with user auth, payments, and Jenkins-powered CI/CD  
-> 🧰 Tech: Python (FastAPI), PostgreSQL, Jenkins, JIRA  
-> 🔍 Features: Booking system, CI/CD pipelines, automated testing, agile sprints  
-
-### 🔹 [Well-Spring](#)
-An Android app for student mental wellness  
-> 🧰 Tech: Kotlin, Firebase, Jetpack Compose  
-> 📊 Features: Mood tracking, journaling, mental health resources  
-
-### 🔹 [Smart City Traffic System](#)
-Cross-platform app for real-time traffic updates  
-> 🧰 Tech: Ionic React, Capacitor, JavaScript  
-> 🛰️ Features: Live data visualization, accident alerts, route planning  
+- 💻 Languages: `Python` `JavaScript` `Kotlin` `SQL` `Java`  
+- 🌐 Web/Mobile: `React.js` `Firebase` `Jetpack Compose` `HTML` `CSS`  
+- ⚙️ DevOps/Infra: `Jenkins` `GitHub Actions` `Docker` (learning) `Ubuntu`  
+- 🛢️ Databases: `PostgreSQL` `MySQL` `Firebase`  
+- 🧰 Tools: `JIRA` `Git` `Android Studio` `Visual Studio` `Arduino`
 
 ---
 
-## 🏆 Achievements
-- 🥈 **2nd Place**, J-HUB National Hackathon  
-- 📚 Published in **Princeton Press, USA** for Smart Water Management  
-- 🧠 Interviewed Dr. A.P.J. Abdul Kalam (Feb 2013)  
-- 🥇 Chief Minister Merit Scholarship (Top 200 Students in TS State)  
+### 🚀 Projects
+
+**🔹 Task-Genie**  
+A full-stack service booking platform with CI/CD pipelines for smooth deployment.  
+*Tech:* Python (FastAPI), PostgreSQL, Jenkins, JIRA  
+
+**🔹 Wellspring**  
+A mental wellness Android app for mood tracking, journaling, and support resources.  
+*Tech:* Kotlin, Firebase, Jetpack Compose  
+
+**🔹 Smart City Traffic Monitoring**  
+Cross-platform app that shows real-time traffic data and alerts using device sensors.  
+*Tech:* Ionic React, JavaScript, Capacitor  
+
+**🔹 Smart Water Management System**  
+IoT-based smart irrigation solution with real-time decision-making using sensors.  
+*Tech:* Arduino, NodeMCU, Embedded C
 
 ---
 
-## 📈 GitHub Stats
+### 🏆 Achievements
 
-![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarmohammed982&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarmohammed982&layout=compact)
+- 📘 Research published by **Princeton Press, USA**  
+- 🥈 Secured **2nd place** in J-HUB National Hackathon  
+- 🧠 Interviewed **Dr. A.P.J. Abdul Kalam**  
+- 🏅 Awarded **Chief Minister Merit Overseas Scholarship** (Top 200 students in TS State)
 
 ---
 
-## 📫 Let's Connect
+### 📊 GitHub Stats
+
+![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbarmohammed982&show_icons=true&theme=default&hide_border=true)
+
+![Akbar's GitHub Streak](https://streak-stats.demolab.com?user=akbarmohammed982&theme=default&hide_border=true)
+
+![Akbar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarmohammed982&layout=compact&theme=default&hide_border=true)
+
+---
+
+### 📫 Connect with Me
 
 - 📧 Email: akbaraaa134@gmail.com  
-- 💼 LinkedIn: [Akbar Mohammed](https://www.linkedin.com/in/akbarmohammed982)  
-- 🔗 GitHub: [@akbarmohammed982](https://github.com/akbarmohammed982)
+- 💼 LinkedIn: [linkedin.com/in/akbarmohammed982](https://www.linkedin.com/in/akbarmohammed982)  
+- 🧰 GitHub: [@akbarmohammed982](https://github.com/akbarmohammed982)
 
 ---
 
-> _"Train hard. Code smart. Be kind."_ 💪
+Thanks for visiting! 😊  
